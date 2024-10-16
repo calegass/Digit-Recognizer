@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "digit-recognizer"
+version = "0.1.0"
+description = ""
+authors = ["calegass <matheuscm7@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
