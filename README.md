@@ -10,9 +10,7 @@ modelo, treine a rede e visualize os resultados diretamente na interface do Stre
 Para utilizar adicionar os arquivos `train.csv` e `test.csv` do dataset do Kaggle na pasta `data`:
 
 - data/
--
     - train.csv
--
     - test.csv
 
 ### Página do streamlit:
